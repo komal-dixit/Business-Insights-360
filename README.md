@@ -1,8 +1,8 @@
 # Business-Insights-360
-## 🔴 **Project Overview:**  
+##  **Project Overview:**  
 AtliQ Hardware, a rapidly growing electronics company, faced challenges in analyzing business performance and making data-driven decisions. This project is aimed to build an interactive solution to provide actionable insights across critical business areas.
 
-## 🟣 **Project Goal:**  
+##  **Project Goal:**  
 To help AtliQ Hardware transition from static data practices, as their reliance on Excel was causing significant financial losses. This was improved by creating interactive reporting for better decision-making and operational efficiency.
 
 ## **Key Features:**  
