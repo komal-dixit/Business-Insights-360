@@ -1,6 +1,6 @@
 # Business-Insights-360
 ## **Interactive Dashboard Link:**  
-[https://lnkd.in/gSAx5igR](https://lnkd.in/gSAx5igR)
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiZTBhN2U4MjgtMWJjZC00MTFkLWJlMTgtY2YzZTcwN2Q3OGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ##  **Project Overview:**  
 AtliQ Hardware, a rapidly growing electronics company, faced challenges in analyzing business performance and making data-driven decisions. This project is aimed to build an interactive solution to provide actionable insights across critical business areas.
